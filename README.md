@@ -9,10 +9,15 @@ Scanner - Set up AV and scan files.
 * add it in environment path for quick access
 * run scanner for more information
 * Usage: scanner scan -f $file 
+
+For more information on AV i used, click [here.](https://www.clamav.net)
   
 <hr>
 
-For more information on AV i used, click [here.](https://www.clamav.net)
+
+
+Note:
+* Created to try out docker sdk.
 
 
 
