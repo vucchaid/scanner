@@ -12,5 +12,7 @@ Scanner - Set up AV and scan file for virus, etc.
   
 <hr>
 
+For more information on AV i used, click [here.](https://www.clamav.net)
+
 
 
