@@ -1,5 +1,5 @@
 # Scanner
-Scanner - Set up AV and scan file for virus, etc.
+Scanner - Set up AV and scan files.
 
 ## Requirement:
 * Docker must be running on your system.
