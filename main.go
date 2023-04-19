@@ -1,6 +1,6 @@
 package main
 
-import "scanner/cmd"
+import "github.com/vucchaid/scanner/cmd"
 
 func main() {
 	cmd.Execute()

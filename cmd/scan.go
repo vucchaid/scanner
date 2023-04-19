@@ -4,9 +4,9 @@ Copyright © 2023 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"scanner/pkg/clamav"
-	"scanner/pkg/docker"
-	"scanner/pkg/log"
+	"github.com/vucchaid/scanner/pkg/clamav"
+	"github.com/vucchaid/scanner/pkg/docker"
+	"github.com/vucchaid/scanner/pkg/log"
 
 	"os"
 

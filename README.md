@@ -1,6 +1,8 @@
 # Scanner
 Scanner - Set up AV and scan files.
 
+[![Go Report Card](https://goreportcard.com/badge/vucchaid/scanner)](https://goreportcard.com/report/vucchaid/scanner) [![](https://godoc.org/github.com/vucchaid/scanner?status.svg)](https://godoc.org/github.com/vucchaid/scanner)
+
 ## Requirement:
 * Docker must be running on your system.
 
@@ -11,6 +13,8 @@ Scanner - Set up AV and scan files.
 * Usage: scanner scan -f $file 
 
 For more information on AV i used, click [here.](https://www.clamav.net)
+
+> Note: please delete the image and container later so program fetches updated one.
   
 <hr>
 

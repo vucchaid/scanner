@@ -1,4 +1,4 @@
-module scanner
+module github.com/vucchaid/scanner
 
 go 1.20
 
