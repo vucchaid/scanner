@@ -3,7 +3,7 @@ module github.com/vucchaid/scanner
 go 1.20
 
 require (
-	github.com/docker/docker v23.0.3+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/spf13/cobra v1.6.1
 	go.uber.org/zap v1.24.0
